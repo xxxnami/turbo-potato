@@ -1,0 +1,43 @@
+Description
+
+File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer. And it's FREE!
+
+The interface is designed to be as light as possible to keep the application pleasant to use.
+
+It supports a lot of different file formats:
+	Supported output formats 	Compatible input formats
+Audio 	flac, aac, ogg, mp3, wav 	3gp, aiff, ape, avi, bik, cda, flac, flv, m4a, mkv, mov, mp3, mp4, oga, ogg, wav, webm, wma, wmv
+Video 	webm, mkv, mp4, ogv, avi, gif 	3gp, avi, bik, flv, gif, m4v, mkv, mp4, mpeg, mov, ogv, webm, wmv
+Image 	png, jpg, ico, webp 	bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga, webp, pdf, doc*, docx*, odt*, odp*, ods*, ppt*, pptx*, xls*, xlsx*
+Document 	pdf 	doc*, docx*, odt*, odp*, ods*, ppt*, pptx*, xls*, xlsx*, bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga
+
+* You need to have Microsoft Office installed and activated in order to convert Office documents.
+
+You can heavily customize the application in order to add / remove conversion presets in the files context menus or edit the existing one to change the conversion options.
+
+If you want more informations about the features offered in File Converter, visit the documentation page.
+
+I hope this application will help you :)
+
+It is open source (GLP v3), free and without any adds so you just have to enjoy it!
+
+Donate
+
+File Converter is a personal open source project started in 2014. I have put hundreds of hours developping, refining and tuning File Converter with the goal of making the conversion and compression of files an easy task for everyone.
+
+You can help me by contributing to the project, by making a donation or just by saying thanks :).
+
+Contribute to the project Donate Say Thanks 
+
+File Converter is maintained by Adrien Allard. This page was created using a customized version of the Cayman theme by Jason Long. 
+
+Links:
+
+"documentation page" (https://github.com/Tichau/FileConverter/wiki)
+"Contribute to the project" (https://github.com/Tichau/FileConverter/wiki#contribute)
+"Donate" (https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3BDWQTYTTA3D8&item_name=File+Converter+Donations&currency_code=EUR)
+"Say Thanks" (https://saythanks.io/to/adrien.allard.pro%40gmail.com)
+"File Converter" (https://github.com/Tichau/FileConverter)
+"Adrien Allard" (https://github.com/Tichau)
+"Cayman theme" (https://github.com/jasonlong/cayman-theme)
+"Jason Long" (https://twitter.com/jasonlong)
